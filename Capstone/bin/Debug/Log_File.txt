@@ -1,0 +1,36 @@
+9/22/2017 5:24:48 PM FEED MONEY                    $0.00                $10.00
+9/22/2017 5:25:01 PM PURCHASED Chiclets D3         $10.00               $9.25
+9/22/2017 5:28:18 PM FEED MONEY                    $0.00                $5.00
+9/22/2017 5:28:30 PM FEED MONEY                    $5.00                $6.00
+9/22/2017 5:28:41 PM PURCHASED Potato Crisps A1    $6.00                $2.95
+9/22/2017 5:28:42 PM MADE CHANGE                   $2.95                $0.00
+9/22/2017 5:32:14 PM FEED MONEY                    $0.00                $5.00
+9/22/2017 5:32:16 PM FEED MONEY                    $5.00                $7.00
+9/22/2017 5:32:36 PM PURCHASED Cloud Popcorn A4    $7.00                $3.35
+9/22/2017 5:32:57 PM FEED MONEY                    $3.35                $4.35
+9/22/2017 5:33:00 PM MADE CHANGE                   $4.35                $0.00
+9/22/2017 5:34:54 PM FEED MONEY                    $0.00                $5.00
+9/22/2017 5:35:00 PM PURCHASED Triplemint D4       $5.00                $4.25
+9/22/2017 5:35:02 PM MADE CHANGE                   $4.25                $0.00
+9/22/2017 5:40:41 PM FEED MONEY                    $0.00                $1.00
+9/22/2017 5:40:43 PM FEED MONEY                    $1.00                $6.00
+9/22/2017 5:40:48 PM FEED MONEY                    $6.00                $11.00
+9/22/2017 5:40:58 PM PURCHASED Potato Crisps A1    $11.00               $7.95
+9/22/2017 5:41:02 PM PURCHASED Cowtales B2         $7.95                $6.45
+9/22/2017 5:41:06 PM PURCHASED Mountain Melter C3  $6.45                $4.95
+9/22/2017 5:41:09 PM PURCHASED Triplemint D4       $4.95                $4.20
+9/22/2017 5:41:15 PM MADE CHANGE                   $4.20                $0.00
+9/22/2017 5:42:28 PM MADE CHANGE                   $0.00                $0.00
+9/22/2017 5:46:13 PM FEED MONEY                    $0.00                $5.00
+9/22/2017 5:46:18 PM PURCHASED Chiclets D3         $5.00                $4.25
+9/22/2017 5:46:19 PM MADE CHANGE                   $4.25                $0.00
+9/22/2017 5:49:05 PM FEED MONEY                    $0.00                $5.00
+9/22/2017 5:49:08 PM MADE CHANGE                   $5.00                $0.00
+9/22/2017 1:59:44 PM MADE CHANGE                   $0.00                $0.00
+9/22/2017 1:59:56 PM FEED MONEY                    $0.00                $5.00
+9/22/2017 2:00:02 PM PURCHASED Crunchie B4         $5.00                $3.25
+9/22/2017 2:00:05 PM MADE CHANGE                   $3.25                $0.00
+10/29/2017 10:20:34 PM FEED MONEY                    $0.00                $2.00
+10/29/2017 10:20:46 PM FEED MONEY                    $2.00                $3.00
+10/29/2017 10:20:56 PM PURCHASED Cola C1             $3.00                $1.75
+10/29/2017 10:21:00 PM MADE CHANGE                   $1.75                $0.00

@@ -1,0 +1,7 @@
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\mpelino\mariapelino-pair-exercises\team6-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.pdb
