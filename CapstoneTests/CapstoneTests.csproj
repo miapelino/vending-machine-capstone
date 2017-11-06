@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -52,10 +52,14 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ItemTests.cs" />
+    <Compile Include="FileIOTests.cs" />
+    <Compile Include="CommandLineInterfaceTests.cs" />
+    <Compile Include="VendingMachineTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Capstone\Capstone.csproj">
-      <Project>{A036D199-78CC-42AE-B8FB-CB3C50F5B6E7}</Project>
+      <Project>{a036d199-78cc-42ae-b8fb-cb3c50f5b6e7}</Project>
       <Name>Capstone</Name>
     </ProjectReference>
   </ItemGroup>
